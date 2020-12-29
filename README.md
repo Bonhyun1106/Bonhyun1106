@@ -1,4 +1,4 @@
-https://img.shields.io/badge<java>-<red>
+https://img.shields.io/static/v1?message=<java>&color=<red>
 
 ### Hi there 👋
 
